@@ -18,6 +18,8 @@ public class Practice11CameraRotateView extends View {
     Point point1 = new Point(200, 200);
     Point point2 = new Point(600, 200);
 
+
+
     public Practice11CameraRotateView(Context context) {
         super(context);
     }
